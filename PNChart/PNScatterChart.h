@@ -65,5 +65,5 @@
  */
 
 - (void)updateChartData:(NSArray *)data;
-
+- (CGFloat) mappingIsForAxisX : (BOOL) isForAxisX WithValue : (CGFloat) value;
 @end
